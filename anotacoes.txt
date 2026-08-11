@@ -1,0 +1,11 @@
+Versionamento:
+● Guarda o histórico de mudanças de um arquivo ou programa.
+● Permite voltar a uma versão antiga se algo der errado.
+● Facilita o trabalho em equipe sem perder dados.
+
+
+
+
+
+
+
