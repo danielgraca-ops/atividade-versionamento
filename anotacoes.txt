@@ -3,6 +3,11 @@ Versionamento:
 ● Permite voltar a uma versão antiga se algo der errado.
 ● Facilita o trabalho em equipe sem perder dados.
 
+Git:
+● Software instalado no computador para controlar versões.
+● Funciona de forma totalmente local e sem precisar de internet.
+● Cria um registro seguro de cada alteração feita no código.
+
 
 
 
