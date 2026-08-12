@@ -8,6 +8,11 @@ Git:
 ● Funciona de forma totalmente local e sem precisar de internet.
 ● Cria um registro seguro de cada alteração feita no código.
 
+GitHub:
+● Site na internet para guardar e compartilhar códigos que usam o Git.
+● Ajuda pessoas do mundo todo a colaborarem no mesmo projeto.
+● Oferece ferramentas visuais para gerenciar tarefas e problemas.
+
 
 
 
