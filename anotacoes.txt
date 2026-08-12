@@ -13,6 +13,11 @@ GitHub:
 ● Ajuda pessoas do mundo todo a colaborarem no mesmo projeto.
 ● Oferece ferramentas visuais para gerenciar tarefas e problemas.
 
+Diferença Principal
+● Git:
+○ A ferramenta de controle que roda no seu computador.
+○ Gerencia o histórico e o salvamento local do código.
+
 
 
 
