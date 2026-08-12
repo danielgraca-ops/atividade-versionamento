@@ -18,6 +18,9 @@ Diferença Principal
 ○ A ferramenta de controle que roda no seu computador.
 ○ Gerencia o histórico e o salvamento local do código.
 
+Comandos dos Git 
+git init
+
 
 
 
