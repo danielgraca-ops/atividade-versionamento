@@ -21,6 +21,7 @@ Diferença Principal
 Comandos dos Git 
 git init
 git add 
+git commit -m
 
 
 
